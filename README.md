@@ -14,8 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+   <h1 align="center">Skills</h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,html,css,bootstrap,vjs" />
+    <img src="https://skillicons.dev/icons?i=vscode,html,css,bootstrap,js" />
+  </a>
+</p>
+
+   <h1 align="center">Reseaux</h1>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,linkedin,discord" />
   </a>
 </p>
