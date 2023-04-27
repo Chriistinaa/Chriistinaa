@@ -22,9 +22,12 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-   <h1 align="center">Reseaux</h1>
+   <h1 align="center">Social</h1>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,linkedin,discord" />
   </a>
 </p>
+
+
+
