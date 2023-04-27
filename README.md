@@ -15,8 +15,8 @@
    
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chriistinaa&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=Chriistinaa&icon=5&color=10)](https://visitcount.itsvg.in)
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
